@@ -1,0 +1,19 @@
+name: Atomic Commit Validation
+
+on:
+  push:
+    branches:
+      - master
+jobs:
+  atomic_commit_validation:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      - name: Install git-quick-stats
+        run: sudo apt-get install -y git-quick-stats
+
+      - name: Validate atomic commits
+        run: git-quick-stats --commit-messages
