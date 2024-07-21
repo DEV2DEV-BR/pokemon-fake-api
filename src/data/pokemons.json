@@ -1,60 +1,60 @@
 [
   {
-    "id": 1,
+    "id": 0,
     "name": "Pikachu",
     "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
     "type": "Electric"
   },
   {
-    "id": 2 ,
+    "id":  1,
     "name": "Rotom",
     "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/479.png",
     "type": "Electric"
   },
   {
-    "id": 3,
+    "id": 2,
     "name": "Charmander",
     "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
     "type": "Fire"
   },
   {
-    "id": 4,
+    "id": 3,
     "name": "Minun",
     "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/312.png",
     "type": "Electric"
   },
   {
-    "id": 5,
+    "id": 4,
     "name": "Venusaur",
     "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png",
     "type": "Poison"
   },
   {
-    "id": 6,
+    "id": 5,
     "name": "Geodude",
     "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png",
     "type": "Fighting"
   },
   {
-    "id": 7,
+    "id": 6,
     "name": "Mewtwo",
     "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/150.png",
     "type": "Psychic"
   },
   {
-    "id": 8,
+    "id": 7,
     "name": "Petilil",
     "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/548.png",
     "type": "Grass"
   },
   {
-    "id": 9,
+    "id": 8,
     "name": "Dusknoir",
     "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/477.png",
     "type": "Ghost"
   },
   {
-    "id": 10,
+    "id": 9,
     "name": "Lycanroc",
     "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/745.png",
     "type": "Rock"
